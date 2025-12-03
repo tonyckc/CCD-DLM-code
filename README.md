@@ -1,6 +1,18 @@
-# Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models
+<div align="center">
 
-<img src="ccd-4.png" width="100%" />
+
+<h1 style="display: flex; justify-content: center; align-items: center; gap: 10px; margin: 0;">
+  Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models
+</h1>
+<p align="center"><em>A novel decoding method for DLMs from a new perspective.</em></p>
+
+<div align="center">
+  <img src="ccd-4.png" alt="overview" style="width: 86%; height: auto;">
+</div>
+
+[![Project Page](https://tonyckc.github.io/CCD-DLM-Project/) 
+
+</div>
 
 This is a preliminary PyTorch implementation of our paper:
 
