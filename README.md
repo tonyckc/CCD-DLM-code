@@ -1,6 +1,6 @@
-
 # Beyond Confidence: Adaptive and Coherent Decoding for Diffusion Language Models
 
+<img src="ccd-4.png" width="100%" />
 
 This is a preliminary PyTorch implementation of our paper:
 
@@ -16,6 +16,3 @@ If you have any problems, please email me (ck.ee@my.cityu.edu.hk).
 2. We provide the  [Trip](https://github.com/google-deepmind/natural-plan) benchmark for your quick validation.
 
 3. We will continue to provide full codes as much as possible.
-
-
-
