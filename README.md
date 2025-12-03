@@ -7,7 +7,7 @@
 <p align="center"><em>A novel decoding method for DLMs from a new perspective.</em></p>
 
 <div align="center">
-  <img src="framework.png" alt="overview" style="width: 86%; height: auto;">
+  <img src="framwork.png" alt="overview" style="width: 86%; height: auto;">
 </div>
 
 [Project Page](https://tonyckc.github.io/CCD-DLM-Project/) 
