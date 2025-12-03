@@ -10,7 +10,7 @@
   <img src="ccd-4.png" alt="overview" style="width: 86%; height: auto;">
 </div>
 
-[![Project Page](https://tonyckc.github.io/CCD-DLM-Project/) 
+[Project Page](https://tonyckc.github.io/CCD-DLM-Project/) 
 
 </div>
 
@@ -27,4 +27,4 @@ If you have any problems, please email me (ck.ee@my.cityu.edu.hk).
 
 2. We provide the  [Trip](https://github.com/google-deepmind/natural-plan) benchmark for your quick validation.
 
-3. We will continue to provide full codes as much as possible.
+3. We will continue to provide full codes as soon as possible.
