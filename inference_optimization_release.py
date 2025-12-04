@@ -25,7 +25,7 @@ torch.backends.cudnn.deterministic = True
 torch.backends.cudnn.benchmark = False
 
 batch_size = 1
-city_list = [1] # from 1-8
+city_list = [1] # from 1-8, which denotes the city #3 to #10
 step = 256
 decoding_type = "ours" # or "dream"
 
